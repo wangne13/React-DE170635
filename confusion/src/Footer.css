@@ -1,0 +1,39 @@
+/* Footer.css */
+
+/* Adjust the styling as needed */
+
+.row-footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .row-footer a {
+    color: #ccc;
+  }
+  
+  .row-footer a:hover {
+    color: #fff;
+  }
+  
+  .row-footer h5 {
+    color: #fff;
+  }
+  
+  .row-footer address {
+    color: #ccc;
+  }
+  
+  .row-footer .btn-social-icon {
+    margin-right: 10px;
+  }
+  
+  .row-footer p {
+    margin: 0;
+    color: #ccc;
+  }
+  
+  .row-footer p:hover {
+    color: #fff;
+  }
+  
